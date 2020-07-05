@@ -9,4 +9,4 @@ To measure the level of water in the tank in institutions or Colleges or Univers
 
 4.Analyse the Data.
 
-5.Generated output will be generated as graph.
+5.Generated output will be a graph.
